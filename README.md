@@ -9,4 +9,8 @@
 | springcloud-ribbon       | 127.0.0.1:8204 |      |
 | springcloud-feign       | 127.0.0.1:8205 |      |
 
+| springcloud-nacos-server       | 127.0.0.1:8301 |      |
+| springcloud-nacos-client       | 127.0.0.1:8302 |      |
+| springcloud-nacos-config       | 127.0.0.1:8303 |      |
+
 
